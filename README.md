@@ -4,4 +4,4 @@ My name is Shannon and I'm an experienced technical writer with over 7 years of 
 
 I'm a fast learner with just enough technical chops to figure out what's necessary to document for both internal and external audiences.
 
-Click below to find some previous work and writing samples.
+This repo houses two writing samples, but please contact me for more at shannyn07@gmail.com.
